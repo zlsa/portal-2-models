@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 192.0000014883593 192.0000040289361"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="heart.svg"
+   inkscape:export-filename="/home/zlsa/projects/3d/portal/cubes/companion-cube/textures/heart.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#dadbe0"
+     bordercolor="#27292f"
+     borderopacity="0.4941176471"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.999999995778911"
+     inkscape:cx="141.3686187124624"
+     inkscape:cy="107.524261519865"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3421"
+     showgrid="true"
+     borderlayer="true"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="862"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     showborder="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-center="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3374"
+       empcolor="#000000"
+       empopacity="0.0823529412"
+       color="#000000"
+       opacity="0.0431372549" />
+    <sodipodi:guide
+       position="96.00000074417964,120.0000025180851"
+       orientation="1,0"
+       id="guide3462" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-860.3621605099651)">
+    <g
+       id="g3421"
+       transform="matrix(0.4008898946595151,0,0,0.4008898946595151,-4.872717074016502,856.1026045298305)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.4944505692px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 181.7773858727692,145.3255788091534 c -39.911208072703,0 -74.8335151363186,24.9445050454395 -74.8335151363186,84.8113171544944 0,109.755822199934 104.7669211908461,79.8224161454065 144.6781292635493,159.644832290813 39.9112080727033,-79.8224161454065 144.6781292635493,-49.889010090879 144.6781292635493,-159.644832290813 0,-59.8668121090549 -34.9223070636156,-84.8113171544944 -74.8335151363186,-84.8113171544944 -32.4278565590714,-9e-14 -52.5625540838869,24.9445050454396 -69.8446141272307,54.877911099967 -17.2820600433437,-29.9334060545274 -37.4167575681591,-54.8779110999671 -69.8446141272307,-54.877911099967 z"
+         id="path3464"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
