@@ -94,11 +94,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.999999995778897"
-     inkscape:cx="-14.64382617055819"
-     inkscape:cy="12.7427342142947"
+     inkscape:zoom="20.793359"
+     inkscape:cx="27.897194"
+     inkscape:cy="37.368035"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      borderlayer="true"
      units="px"
@@ -136,75 +136,105 @@
      id="layer1"
      transform="translate(0,-1004.362160509965)">
     <circle
-       r="7.000021934509277"
+       r="7.0000219"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4346)"
        id="circle4293"
        cx="36"
-       cy="1016.362182617188" />
+       cy="1028.3622" />
     <circle
-       cy="1016.362182617188"
+       cy="1028.3622"
        cx="12"
        id="circle4298"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4350)"
-       r="7.000021934509277" />
+       r="7.0000219" />
     <circle
-       cy="1040.362182617188"
+       cy="1052.3622"
        cx="24"
        id="circle4300"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4354)"
-       r="7.000021934509277" />
+       r="7.0000219" />
     <circle
-       r="7.000021934509277"
+       r="7.0000219"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4358)"
        id="circle4302"
-       cx="-9.5367431640625e-07"
-       cy="1040.362182617188" />
+       cx="-9.5367432e-07"
+       cy="1052.3622" />
     <circle
-       r="7.000021934509277"
+       r="7.0000219"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4362)"
        id="circle4304"
        cx="48"
-       cy="1040.362182617188" />
+       cy="1052.3622" />
+    <circle
+       r="7.0000219"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4354)"
+       id="circle5126"
+       cx="24"
+       cy="1004.3622" />
+    <circle
+       cy="1004.3622"
+       cx="-9.5367432e-07"
+       id="circle5128"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4358)"
+       r="7.0000219" />
+    <circle
+       cy="1004.3622"
+       cx="48"
+       id="circle5130"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4362)"
+       r="7.0000219" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="cover"
-     sodipodi:insensitive="true">
+     inkscape:label="cover">
     <circle
-       transform="translate(0,-1004.362160509965)"
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle3385"
        cx="12"
-       cy="1016.362182617188"
-       r="7.000021934509277" />
+       cy="23.999977"
+       r="7.0000219" />
     <circle
-       cy="1016.362182617188"
+       cy="23.999977"
        cx="36"
        id="circle3387"
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       r="7.000021934509277"
-       transform="translate(0,-1004.362160509965)" />
+       r="7.0000219" />
     <circle
-       transform="translate(0,-1004.362160509965)"
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle3395"
        cx="24"
-       cy="1040.362182617188"
-       r="7.000021934509277" />
+       cy="47.999977"
+       r="7.0000219" />
     <circle
-       transform="translate(0,-1004.362160509965)"
-       cy="1040.362182617188"
+       cy="47.999977"
        cx="48"
        id="circle3397"
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       r="7.000021934509277" />
+       r="7.0000219" />
     <circle
-       transform="translate(0,-1004.362160509965)"
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle3401"
-       cx="1.77635683940025e-15"
-       cy="1040.362182617188"
-       r="7.000021934509277" />
+       cx="1.7763568e-15"
+       cy="47.999977"
+       r="7.0000219" />
+    <circle
+       r="7.0000219"
+       cy="-2.2107222e-05"
+       cx="24"
+       id="circle5132"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="7.0000219"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5134"
+       cx="48"
+       cy="-2.2107222e-05" />
+    <circle
+       r="7.0000219"
+       cy="-2.2107222e-05"
+       cx="1.7763568e-15"
+       id="circle5136"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

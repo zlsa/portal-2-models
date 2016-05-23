@@ -28,9 +28,9 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.62741694424382"
-     inkscape:cx="29.6443454888201"
-     inkscape:cy="30.95512492938647"
+     inkscape:zoom="20.793359"
+     inkscape:cx="50.53917"
+     inkscape:cy="39.891527"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -73,31 +73,49 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle3385"
        cx="12"
-       cy="1016.362182617188"
-       r="7.000021934509277" />
+       cy="1028.3622"
+       r="7.0000219" />
     <circle
-       cy="1016.362182617188"
+       cy="1028.3622"
        cx="36"
        id="circle3387"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       r="7.000021934509277" />
+       r="7.0000219" />
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle3395"
        cx="24"
-       cy="1040.362182617188"
-       r="7.000021934509277" />
+       cy="1052.3622"
+       r="7.0000219" />
     <circle
-       cy="1040.362182617188"
+       cy="1052.3622"
        cx="48"
        id="circle3397"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       r="7.000021934509277" />
+       r="7.0000219" />
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle3401"
-       cx="1.77635683940025e-15"
-       cy="1040.362182617188"
-       r="7.000021934509277" />
+       cx="1.7763568e-15"
+       cy="1052.3622"
+       r="7.0000219" />
+    <circle
+       r="7.0000219"
+       cy="1004.3621"
+       cx="24"
+       id="circle5012"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="7.0000219"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5014"
+       cx="48"
+       cy="1004.3621" />
+    <circle
+       r="7.0000219"
+       cy="1004.3621"
+       cx="1.7763568e-15"
+       id="circle5016"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
